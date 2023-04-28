@@ -1,0 +1,168 @@
+body {
+		background-color: #c3b0c0;
+		color: #a55a9c; 
+		font-family: verdana, serif;
+		font-size: 12pt;
+		text-align: center;
+	
+	}
+
+h1 {
+		background-color: purple; 
+		color: #a55a9c;
+		font-weight: 600;
+		font-style: oblique;
+		text-align: center;
+
+}
+
+p {
+		border: solid 10px black;
+		color: #a55a9c;
+		padding: 10px;
+		margin: 10px;
+		border-style: groove;
+		/* inset, outset, solid, double, dotted, dashed, groove, ridge*/
+		border-width: 10px;
+		border-color: purple;
+		border-bottom-color: purple;
+		border-left-color: purple;
+		border-right-color: pink;
+		border-top-color: purple;
+		border-radius: 30px;
+		/*box-shadow: 5px 7px 2px black;*/
+		border-left-width: 0px;
+		border-right-width: 0px;
+		
+			}
+			
+			
+table {
+		border: solid 10px black;
+		color: #a55a9c;
+		padding: 10px;
+		margin: 10px;
+		border-style: groove;
+		/* inset, outset, solid, double, dotted, dashed, groove, ridge*/
+		border-width: 10px;
+		border-color: purple;
+		border-bottom-color: purple;
+		border-left-color: purple;
+		border-right-color: purple;
+		border-top-color: purple;
+		border-radius: 30px;
+		/*box-shadow: 5px 7px 2px black;*/
+		border-left-width: 0px;
+		border-right-width: 0px;
+			}
+
+ul {
+		color: #a55a9c;
+		display: inline-block;
+		border: solid 1px black;
+		padding: 17px;
+		padding-bottom: ;
+		margin: 5px;
+		border-style: groove;
+		border-width: 12px;
+		border-color: purple;
+		border-bottom-color: purple;
+		border-left-color: purple;
+		border-top-color: purple;
+		border-right-color: ;
+		border-bottom-color: pink;
+		border-radius: 30px;
+		border-top-width: 0px;
+		border-bottom-width: 0px;
+		text-align: left;
+		
+				}
+				
+nav {
+		width: 100%;
+		
+}
+
+nav ul li {
+		list-style: none;
+		display: inline-block;
+}
+
+nav ul li a {
+		
+		display: block;
+		text-decoration: none;
+		text-align: center;
+		color: purple;
+		padding: 22px;
+		letter-spacing: 1px;
+		font-size: 30px;
+		font-weight: 600;
+}
+				
+nav a {
+	transition: 600ms;
+	
+}
+
+
+nav a:hover {
+		background-color: purple;
+		color: white;
+		width: ;
+}
+				
+.nav {
+		display: flex;
+}
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+
+.container1 {
+				margin-left: auto;
+				margin-right: auto;
+				
+			}
+
+.container2 {
+				margin-right: auto;
+				margin-left: auto;
+				
+			}
+
+.container3	{
+				display: flex;
+			}
+
+.container4	{
+				display: flex;
+			}
+
+.container5	{
+				display: flex;
+			}
+
+.container6	{
+				display: flex;
+			}
+
+
+
+/*.container9	{
+				display: flex;
+			}*/
+
+.container10 {
+				color: black;
+				display: flex;
+}
+
